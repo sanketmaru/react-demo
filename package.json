@@ -1,0 +1,17 @@
+{
+  "name": "ReactFluxDemo",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "gulp"
+  },
+  "dependencies": {
+    "browserify" : "11.0.0",
+    "flux" : "2.0.3",
+    "gulp" : "3.9.0",
+    "react" : "0.13.3",
+    "reactify" : "1.1.1",
+    "vinyl-source-stream" : "1.1.0",
+    "react-router-component" : "0.26.0"
+  }
+}
